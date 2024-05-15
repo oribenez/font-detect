@@ -1,6 +1,6 @@
 ### Font Detection App
 
-Update: As a part of a Computer vision course at the Open University of Israel, I've graded *96* for this app. 😊
+Update: As a part of a Computer vision course at the Open University of Israel, I've graded *95* for this app. 😊
 <img width="543" alt="image" src="https://github.com/oribenez/font-detect/assets/15029502/cda85c47-ba60-478a-88d7-deec82504070">
 
 
